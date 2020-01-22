@@ -1,3 +1,3 @@
-# insight-refs
+# Publications
 
-Additional infomration and links for Insight Data Science Fellowship application
+Links to publications, talks, and other coverage of my research
