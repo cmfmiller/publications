@@ -10,7 +10,7 @@ Link to Video: https://meet87909873.adobeconnect.com/pjbjf7t50p2h/
 Password: 2019Miller
 
 ## Peer Reviewed Publications
-1)	**Miller, C.M.F.**, Waterhouse, H., Harter, T., Fadel, J.G., Meyer, D. (2019) Quantifying the uncertainty in nitrogen application and groundwater nitrate loading in manure based cropping systems. *Agricultural Systems*. **In Review**
+1)	**Miller, C.M.F.**, Waterhouse, H., Harter, T., Fadel, J.G., Meyer, D. (2020) [Quantifying the uncertainty in nitrogen application and groundwater nitrate leaching in manure based cropping systems](https://www.sciencedirect.com/science/article/abs/pii/S0308521X19315525). *Agricultural Systems*. 184, 102877
 
 2)	**Miller, C.M.F.**, Heguy, J., Karle, B., Price, P.L., Meyer, D. (2019) [Optimizing accuracy of sampling protocols to measure nutrient content of solid manure](https://www.ncbi.nlm.nih.gov/pubmed/30803565). *Waste Management*. 85, 121-130 
 	
